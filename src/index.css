@@ -1,0 +1,11 @@
+
+/* No Tailwind directives needed as we use CDN */
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #3b82f6;
+  color: #fff;
+}
